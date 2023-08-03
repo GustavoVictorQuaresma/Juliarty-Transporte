@@ -151,8 +151,8 @@ section {
 }
 
 .breadcrumbs .page-header h2 {
-  font-size: 56px;
-  font-weight: 500;
+  font-size: 48px;
+  font-weight: 700;
   color: #fff;
   font-family: var(--font-secondary);
 }
